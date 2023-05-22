@@ -1,0 +1,23 @@
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure Service Bus.exe
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure Service Bus.deps.json
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure Service Bus.runtimeconfig.json
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure Service Bus.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure Service Bus.pdb
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.csproj.AssemblyReference.cache
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.AssemblyInfoInputs.cache
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.AssemblyInfo.cs
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.csproj.CoreCompileInputs.cache
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\refint\Azure Service Bus.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.pdb
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.genruntimeconfig.cache
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\ref\Azure Service Bus.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rambhu.mukhia\Desktop\Azure Service BUs\Azure Service Bus\Azure Service Bus\obj\Debug\net6.0\Azure Service Bus.csproj.CopyComplete
